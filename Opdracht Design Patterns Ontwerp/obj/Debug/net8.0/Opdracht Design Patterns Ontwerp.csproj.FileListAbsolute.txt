@@ -1,0 +1,14 @@
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\bin\Debug\net8.0\Opdracht Design Patterns Ontwerp.exe
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\bin\Debug\net8.0\Opdracht Design Patterns Ontwerp.deps.json
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\bin\Debug\net8.0\Opdracht Design Patterns Ontwerp.runtimeconfig.json
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\bin\Debug\net8.0\Opdracht Design Patterns Ontwerp.dll
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\bin\Debug\net8.0\Opdracht Design Patterns Ontwerp.pdb
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\obj\Debug\net8.0\Opdracht Design Patterns Ontwerp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\obj\Debug\net8.0\Opdracht Design Patterns Ontwerp.AssemblyInfoInputs.cache
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\obj\Debug\net8.0\Opdracht Design Patterns Ontwerp.AssemblyInfo.cs
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\obj\Debug\net8.0\Opdracht Design Patterns Ontwerp.csproj.CoreCompileInputs.cache
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\obj\Debug\net8.0\Opdracht Design Patterns Ontwerp.dll
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\obj\Debug\net8.0\refint\Opdracht Design Patterns Ontwerp.dll
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\obj\Debug\net8.0\Opdracht Design Patterns Ontwerp.pdb
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\obj\Debug\net8.0\Opdracht Design Patterns Ontwerp.genruntimeconfig.cache
+C:\Users\Rik\source\repos\Opdracht Design Patterns Ontwerp\Opdracht Design Patterns Ontwerp\obj\Debug\net8.0\ref\Opdracht Design Patterns Ontwerp.dll
