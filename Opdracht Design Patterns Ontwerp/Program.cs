@@ -18,6 +18,7 @@ class WeatherForecastMemento
     }
 }
 
+
 // Originator class which creates and restores the memento
 class WeatherForecast
 {
